@@ -22,7 +22,7 @@ Data Dictionary:
 
 Project Objective:
 
-The firm's management wants to make an investment in one of the English Premier League's top-performing teams. The analytics team has been assigned the task of compiling a thorough report on the performance of various clubs to assist in their decision-making process. But several of the more prestigious clubs were already owned by competitors. In order to assure a successful and profitable deal, the company wants to identify the teams it may approach and possibly invest in.
+The firm's management wants to make an investment in one of the English Premier League's top-performing teams. The task is to create a thorough report on the performance of various clubs to assist in their decision-making process. But several of the more prestigious clubs were already owned by competitors. In order to assure a successful and profitable deal, the company wants to identify the teams it may approach and possibly invest in.
 
 Note:
 
